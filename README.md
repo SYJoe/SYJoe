@@ -2,8 +2,10 @@
 - ROKA(2021.05 ~ 2022.12)  
     
 ## Project  
-- Project Homemellow(2020.08 ~ 2021.04)  
-- Project Don't Quake(2020.12)  
+- Project GameScore(API-JAVA/SPRING, APP-JS/REACT)(2020.07)  
+- Project WeatherApp(JS/REACTNATIVE)(2020.08)  
+- Project Don't Quake(C)(2020.12)  
+- Project Homemellow(JAVA)(2021.03 ~ 2021.04)  
 
 <!--
 **SYJoe/SYJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
