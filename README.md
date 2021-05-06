@@ -1,8 +1,8 @@
-📖Ajou University(2019.03 ~ )
-🇰🇷ROKA(2021.05 ~ 2022.12)
+*Ajou University(2019.03 ~ )
+*ROKA(2021.05 ~ 2022.12)
 
-📱Project Homemellow(2020.08 ~ 2021.04)
-🏠Project Don't Quake(2020.12)
+*Project Homemellow(2020.08 ~ 2021.04)
+*Project Don't Quake(2020.12)
 
 <!--
 **SYJoe/SYJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
