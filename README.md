@@ -5,7 +5,7 @@
 - GameScore(API-JAVA/SPRING, APP-JS/REACT)(2020.07)  
 - WeatherApp(JS/REACTNATIVE)(2020.08)  
 - Don't Quake(C)(2020.12)  
-- Homemellow(JAVA)(2021.03 ~ 2021.04)  
+- Homemellow(JAVA/ANDROID)(2021.03 ~ 2021.04)  
 
 <!--
 **SYJoe/SYJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
