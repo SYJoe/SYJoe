@@ -6,6 +6,7 @@
 - WeatherApp(JS/REACTNATIVE)(2020.08)  
 - Don't Quake(C)(2020.12)  
 - Homemellow(JAVA/ANDROID)(2021.03 ~ 2021.04)  
+- TodaysStock(JS/REACTNATIVE)(2021.09 ~ 2022.02)
 
 <!--
 **SYJoe/SYJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
